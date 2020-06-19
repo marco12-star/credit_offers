@@ -18,6 +18,9 @@
 	}
 }
 @media all and (max-width: 800px) {
+	.credit__text{
+		padding: 1rem 2rem;
+	}
 	.navbar{
 		display: none;
 	}
