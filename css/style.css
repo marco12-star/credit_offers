@@ -37,8 +37,9 @@ li{
 	color: #8AC44B;
 }
 
-.navbar{
-	padding: 1.5rem 0;
+.nav-link {
+    display: block;
+    padding: .3rem 1rem;
 }
 .dropdown-menu{
 	border: none;
