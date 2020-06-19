@@ -7,7 +7,14 @@
 	}
 	.info__text{
 		font-weight: 700;
-		padding: 0;
+		padding: 1rem .8rem;
+	}
+	.nav img{
+		width: 150px;
+	}
+	.nav a{
+		font-size: 15px;
+		white-space: nowrap;
 	}
 }
 @media all and (max-width: 800px) {
@@ -49,7 +56,7 @@
 		text-align: center;
 	}
 	.mobile_link{
-		display: тщту;
+		display: none;
 	}
 }
 @media all and (max-width: 320px){
