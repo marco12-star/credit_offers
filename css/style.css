@@ -9,6 +9,10 @@ body{
     outline-offset: 0;
 }
 
+.dws-menu > ul li a{
+	white-space: nowrap;
+}
+
 ul{
 	padding: 0;
 }
