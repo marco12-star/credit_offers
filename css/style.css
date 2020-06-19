@@ -193,6 +193,10 @@ a:not([href]):not([tabindex]){
 	display: flex;
 }
 
+.credit__link_item{
+	margin: 5px 0;
+}
+
 .mobile_link{
 	display: none;
 }
