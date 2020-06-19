@@ -40,6 +40,16 @@ li{
 .navbar{
 	padding: 1.5rem 0;
 }
+.dropdown-menu{
+	border: none;
+}
+
+.navbar li{
+	margin: 0;
+}
+a:not([href]):not([tabindex]) {
+    padding: 5px 0;
+}
 
 a{
 	padding: 15px 0;
