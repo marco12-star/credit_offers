@@ -18,8 +18,8 @@
 	}
 }
 @media all and (max-width: 800px) {
-	.credit__text{
-		padding: 1rem 2rem;
+	.container{
+		max-width: initial;
 	}
 	.navbar{
 		display: none;
@@ -66,4 +66,15 @@
 	.footer__nav{
 		flex-direction: column;
 	}
+}
+
+.dropdown-menu{
+	border: none;
+}
+
+.navbar li{
+	margin: 0;
+}
+a:not([href]):not([tabindex]) {
+    padding: 5px 0;
 }
